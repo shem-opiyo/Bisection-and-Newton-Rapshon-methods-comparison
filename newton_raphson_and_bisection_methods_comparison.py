@@ -1,6 +1,9 @@
 import math
 import timeit
 
+print('Shem Nicholas Opiyo')
+print('SCT211-0509/2021')
+
 # this code starts with the comparison description of the 
 # function to be used in comparing the newton raphson 
 # method and bisection method. The section also has a 
