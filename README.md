@@ -1,5 +1,6 @@
 # Bisection-and-Newton-Rapshon-methods-comparison
 SHEM NICHOLAS OPIYO
+
 SCT211-0509/2021
 
 The code compares the runtime of bisection method and newton raphson method, when finding the root of  x^4 + x^3-2x^2+x-18. It starts 
