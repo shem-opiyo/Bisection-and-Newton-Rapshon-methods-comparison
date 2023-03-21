@@ -54,6 +54,7 @@ for  i in range(max_iterations) :
 newton_time = timeit.default_timer() - start_time
 print(f"Newton Raphson Time : {newton_time}" ) 
 
+# comparison of the runtime of bisection and newton raphson methods, and the display of the comparison's outcome
 if newton_time < bisection_time :
     print(f"\n\n Juding from the comparison of the two method's run time, Newton raphson method takes a shorter period than bisection method")
 else:
